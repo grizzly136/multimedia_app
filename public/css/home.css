@@ -153,3 +153,8 @@ body {
   }
 
 }
+.section1{
+  background: url(../background.jpg);
+  background-size: cover;
+
+}
